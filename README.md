@@ -39,7 +39,5 @@ Dans ce TP on apprend à travailler avec git.
 
 ### Intégration d’une vidéo YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wz_LE13TPho"  
-title="YouTube video player" frameborder="0"  
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
