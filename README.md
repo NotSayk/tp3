@@ -19,10 +19,10 @@ Dans ce TP on apprend à travailler avec git.
 [Visitez OpenAI](https://www.openai.com)
 
 ### Insertion d’une image interne
-![drawing](./images/drawing.png)
+![drawing](./images/drawing.jpg)
 
 ### Insertion d’une image externe
-![Image Linus](https://upload.wikimedia.org/wikipedia/commons/3/35/Linus_Torvalds.jpeg "Passez la souris sur l’image")
+![Image Linus](https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg "Passez la souris sur l’image")
 
 ### Insertion d’un tableau
 
@@ -39,7 +39,7 @@ Dans ce TP on apprend à travailler avec git.
 
 ### Intégration d’une vidéo YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ"  
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wz_LE13TPho"  
 title="YouTube video player" frameborder="0"  
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
 allowfullscreen></iframe>
